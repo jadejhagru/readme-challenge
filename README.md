@@ -1,7 +1,7 @@
 <h1 align="center">Professional README Generator 👋</h1>
 <p align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg)
 
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -20,7 +20,7 @@
 * https://drive.google.com/file/d/1mOMgjaJmLCIrPT2t-3wBvAbw2gwPQKg-/preview
 
 ## Installation Instructions
-* NPM to acquire inquirer package.
+* npm installation to acquire inquirer package.
 
 ## Usage Information
 * Generates a professional README.md file.
