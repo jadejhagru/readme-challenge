@@ -31,7 +31,7 @@
 * No test required.
 
 ## License
-* MIT LICENSE
+* MIT LICENSE [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
 ## Questions
 * For additional help or questions about collaboration, please reach out to j.jhagru@hotmail.com
