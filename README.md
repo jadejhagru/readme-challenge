@@ -1,4 +1,4 @@
-# Professional README Generator
+# README
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -9,26 +9,20 @@
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
-
-## Application video:
-
 ## Project Description
-* This is a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package]
-
+* dfbdfbd
 ## Installation Instructions
-* Install NPN to acquire inquirer package
-
+* yes
 ## Usage Information
-* Generates a professional README file
-
+* fbfdgbsdb
 ## Contributor Guidelines
-* Guidelines details are discussed under the Code of Conduct section
-
+* nfvn cvb 
 ## Code of Conduct
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
-
 ## Test Instructions
-* No test required
-
+*  vc xdbx
 ## License
-* MIT License
+* licensed under the 
+## Questions
+* For additional help or questions about collaboration, please reach out to j.jhagru@hotmail.com
+* Follow me on Github at [jadejhagru](http://github.com/jadejhagru)
