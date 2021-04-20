@@ -1,7 +1,7 @@
 <h1 align="center">Professional README Generator 👋</h1>
 <p align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) [![javascript](https://img.shields.io/badge/javascript-100%25-ff69b4)
 
 #### Table of Contents
 1. [Project Description](#project-description)
