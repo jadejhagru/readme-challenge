@@ -1,5 +1,8 @@
-# Professional README Generator
-    
+<h1 align="center">Professional README Generator 👋</h1>
+<p align="center">
+
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
 #### Table of Contents
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
@@ -9,6 +12,7 @@
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
+
 ## Project Description
 * This is a command line application that will generate a professional README.md from a user input using the Inquirer Package.
 
@@ -31,7 +35,7 @@
 * No test required.
 
 ## License
-* MIT LICENSE [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+* MIT License
 
 ## Questions
 * For additional help or questions about collaboration, please reach out to j.jhagru@hotmail.com
