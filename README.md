@@ -31,7 +31,7 @@
 * No test required.
 
 ## License
-* licensed under the 
+* MIT LICENSE
 
 ## Questions
 * For additional help or questions about collaboration, please reach out to j.jhagru@hotmail.com
