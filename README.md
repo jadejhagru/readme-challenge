@@ -6,7 +6,10 @@
 #### Table of Contents
 1. [Collaborators](#Collaborators)
 2. [Project-Description](#Project-Description)
-8. [Questions](#questions)
+3. [User-Story](#User-Story)
+4. [Acceptance-Criteria](#Acceptance-Criteria)
+5. [Technologies](#Technologies)
+6. [Questions](#questions)
 
 ## Collaborators
 * [Jade Jhagru](http://github.com/jadejhagru)
@@ -36,7 +39,7 @@ THEN I can delete cards\
 WHEN I click “Start Studying”\
 THEN I can study flashcards\
 
-## Technologies Used 
+## Technologies
 * HTML
 * CSS
   * Bootstrap
