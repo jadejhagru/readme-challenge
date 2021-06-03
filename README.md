@@ -23,8 +23,8 @@
 * User can then login and will be directed to our dashboard where they can add, edit, or delete flashcards.
 
 ## User Story 
-AS a student\
-I WANT a coding flashcard application\ 
+AS a student
+I WANT a coding flashcard application
 SO THAT I can learn/review more efficiently
 
 ## Aceptance Criteria 
