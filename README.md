@@ -1,42 +1,50 @@
-<h1 align="center">Professional README Generator 👋</h1>
+<h1 align="center">Project 2 - goCode!👋</h1>
 <p align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) ![javascript](https://img.shields.io/badge/javascript-100%25-ff69b4) ![npm](https://img.shields.io/badge/npm-v7.7.6-brightgreen)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) ![javascript](https://img.shields.io/badge/javascript-100%25-ff69b4)
 
 #### Table of Contents
-1. [Project Description](#project-description)
-2. [Installation Instructions](#installation-instructions)
-3. [Usage Information](#usage-information)
-4. [Contributor Guidelines](#contributor-guidelines)
-5. [Code of Conduct](#code-of-conduct)
-6. [Test Instructions](#test-instructions)
-7. [License](#license)
+1. [Collaborators](#Collaborators)
+2. [Project-Description](#Project-Description)
 8. [Questions](#questions)
 
+## Collaborators
+* [Jade Jhagru](http://github.com/jadejhagru)
+* [Jessica Jeyanthiran](https://github.com/JessicaJeyanthiran)
+* [Jon Waaler](https://github.com/JonWaaler)
+* [Rani Saad](https://github.com/rsaad86)
+
 ## Project Description
-* This is a command line application that will generate a professional README.md from a user input using the Inquirer Package.
+* This is Project 2 for UofT Bootcamp. This is a coding flashcard application where any students can learn about coding and study in a more effective way. 
+* User will be prompted to create and account.
+* User can then login and will be directed to our dashboard where they can add, edit, or delete flashcards.
 
-## Application Video
-* https://drive.google.com/file/d/1mOMgjaJmLCIrPT2t-3wBvAbw2gwPQKg-/preview
+## User Story 
+AS a student\
+I WANT a coding flashcard application\ 
+SO THAT I can learn/review more efficiently\
 
-## Installation Instructions
-* npm installation to acquire inquirer package.
+## Aceptance Criteria 
+GIVEN A coding flashcard application\ 
+I can enter credentials to login or signup\
+WHEN I login\
+THEN I can create my own flashcards\
+WHEN I click “add”\
+THEN I can add a question & answer\
+WHEN I click “delete”\ 
+THEN I can delete cards\
+WHEN I click “Start Studying”\
+THEN I can study flashcards\
 
-## Usage Information
-* Generates a professional README.md file.
-
-## Contributor Guidelines
-* Code of Conduct.
-
-## Code of Conduct
-* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
-
-## Test Instructions
-* No test required.
-
-## License
-* MIT License
-
-## Questions
-* For additional help or questions about collaboration, please reach out to j.jhagru@hotmail.com
-* Follow me on Github at [jadejhagru](http://github.com/jadejhagru)
+## Technologies Used 
+* HTML
+* CSS
+  * Bootstrap
+* JavaScript
+* Handlebars
+* MySQL
+* Node.js
+  * express and express-handlebars
+  * mysql
+  * sequelize
+  * dotenv
