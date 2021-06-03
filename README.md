@@ -25,7 +25,7 @@
 ## User Story 
 AS a student\
 I WANT a coding flashcard application\
-SO THAT I can learn/review more efficiently
+SO THAT I can learn review more efficiently
 
 ## Aceptance Criteria 
 GIVEN A coding flashcard application\ 
