@@ -25,7 +25,7 @@
 ## User Story 
 AS a student\
 I WANT a coding flashcard application\ 
-SO THAT I can learn/review more efficiently\
+SO THAT I can learn/review more efficiently
 
 ## Aceptance Criteria 
 GIVEN A coding flashcard application\ 
@@ -37,7 +37,7 @@ THEN I can add a question & answer\
 WHEN I click “delete”\ 
 THEN I can delete cards\
 WHEN I click “Start Studying”\
-THEN I can study flashcards\
+THEN I can study flashcards
 
 ## Technologies
 * HTML
